@@ -1,4 +1,4 @@
-# InsightHR - Employee Attrition Analysis Dashboard
+# InsightHR - Employee Attrition Analysis Dashboard (Power BI)
 
 ## Overview
 
