@@ -55,7 +55,7 @@ The InsightHR Dashboard provides valuable insights into employee attrition, help
 
 ## DEMO
 
-
+https://github.com/debjyotirshi2303/InsightHR---Employee-Attrition-Analysis-Dashboard-Power-BI-/assets/75799417/a990754e-cde5-4ec3-a859-54f6835b0270
 
 ## Author
 
